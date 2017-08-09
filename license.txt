@@ -1,0 +1,13 @@
+<!-- Widget de buscador de gasolineras y puntos de recarga eléctrica de Ecomotriz.com -->
+<!--                                                                                  -->
+<!-- Licencia de uso                                                                  -->
+<!-- 1) El siguiente código es de libre distribución                                  -->
+<!-- 2) El usuario podrá modificar cualquier aspecto relativo al estilo visual del    -->
+<!--    widget como tamaño y color, debiendo dejar siempre visible y al tamaño        -->
+<!--    original tanto el logotipo de Ecomotriz.com como el enlace a la web           -->
+<!-- 3) No está permitido retirar el enlace o el logotipo de Ecomotriz.com, es lo     -->
+<!--    único que los creadores requerimos como feedback por el trabajo realizado     -->
+<!-- 4) El usuario no podrá dar a entender que el widget es obra suya                 -->
+<!-- 5) Esta licencia debe redistribuirse tal cual junto con el código del widget     -->
+<!-- 6) Agradeceríamos nos indicara a través de la dirección info@ecomotriz.com la    -->
+<!--    dirección del sitio web donde haya incluido el widget                         -->

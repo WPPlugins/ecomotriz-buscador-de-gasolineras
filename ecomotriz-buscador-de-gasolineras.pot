@@ -1,0 +1,86 @@
+# Copyright (C) 2012 Ecomotriz buscador de gasolineras
+# This file is distributed under the same license as the Ecomotriz buscador de gasolineras package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecomotriz buscador de gasolineras 0.9.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ecomotriz-buscador-de-"
+"gasolineras\n"
+"POT-Creation-Date: 2012-10-01 12:38:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  ecomotriz-buscador-de-gasolineras.pot (Ecomotriz buscador de gasolineras 0.9.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: ecomotriz-buscador-de-gasolineras.php:56
+#: ecomotriz-buscador-de-gasolineras.php:63 ecomotriz_wpmain.php:59
+#: ecomotriz_wpmain.php:66
+msgid "Ecomotriz buscador de gasolineras"
+msgstr ""
+
+#. #-#-#-#-#  ecomotriz-buscador-de-gasolineras.pot (Ecomotriz buscador de gasolineras 0.9.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: ecomotriz-buscador-de-gasolineras.php:64 ecomotriz_wpmain.php:67
+msgid "Buscador de gasolineras y puntos de recarga eléctrica"
+msgstr ""
+
+#: ecomotriz-buscador-de-gasolineras.php:169 ecomotriz_wpmain.php:227
+msgid "Save Changes"
+msgstr ""
+
+#: ecomotriz_wpmain.php:132
+msgid "Buscar electrolineras"
+msgstr ""
+
+#: ecomotriz_wpmain.php:136
+msgid "Buscar gasolineras"
+msgstr ""
+
+#: ecomotriz_wpmain.php:180
+msgid ""
+"Ecomotriz buscador de gasolineras y puntos de recarga eléctrica - Opciones"
+msgstr ""
+
+#: ecomotriz_wpmain.php:185
+msgid "Ancho del widget (width):"
+msgstr ""
+
+#: ecomotriz_wpmain.php:187
+msgid "Alto del widget (height):"
+msgstr ""
+
+#: ecomotriz_wpmain.php:191
+msgid "Título del widget:"
+msgstr ""
+
+#: ecomotriz_wpmain.php:193
+msgid "title_info"
+msgstr ""
+
+#: ecomotriz_wpmain.php:196
+msgid "Dirección por defecto:"
+msgstr ""
+
+#: ecomotriz_wpmain.php:200
+msgid "Activar sólo la búsqueda de puntos de recarga eléctrica"
+msgstr ""
+
+#: ecomotriz_wpmain.php:213
+msgid ""
+"Activar búsqueda de puntos de recarga eléctrica, pero dejar la opción de "
+"buscar gasolineras al usuario"
+msgstr ""
+
+#. #-#-#-#-#  ecomotriz-buscador-de-gasolineras.pot (Ecomotriz buscador de gasolineras 0.9.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  ecomotriz-buscador-de-gasolineras.pot (Ecomotriz buscador de gasolineras 0.9.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.ecomotriz.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ecomotriz"
+msgstr ""
